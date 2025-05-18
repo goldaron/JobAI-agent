@@ -31,7 +31,7 @@ To use the AI Recruitment Agent via chatboxapp.ai:
 2. Download or use online [chatboxapp.ai](https://chatboxapp.ai/):
 3. Add the OpenAI API key to the chatboxapp.ai platform.
 4. Create your own copilot within the application.
-5. Insert the agent's guide prompt into the designated field to personalize your copilot's functionality.
+5. Insert the [AI Recruitment Agent Prompt](./AI_Recruitment_Agent_Prompt.txt) into the designated field to personalize your copilot's functionality.
 6. Place the guide prompt content at the beginning of your copilot setup to ensure it initializes the conversation framework effectively.
 
 ## Contribution
