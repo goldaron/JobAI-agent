@@ -28,7 +28,7 @@ Getting Started: Begin by asking for help in areas like CV improvement, LinkedIn
 To use the AI Recruitment Agent via chatboxapp.ai:
 
 1. Obtain API Key: Get your API key from [OpenAI](https://platform.openai.com/).
-2. Setup in chatboxapp.ai:
+2. Download or use online [chatboxapp.ai](https://chatboxapp.ai/):
 3. Add the OpenAI API key to the chatboxapp.ai platform.
 4. Create your own copilot within the application.
 5. Insert the agent's guide prompt into the designated field to personalize your copilot's functionality.
